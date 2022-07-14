@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/oliveira/Downloads/ptypes/ptypes-2.1.1'
+cd src ; make -f Makefile.`uname` all
+cd wshare ; make -f Makefile.`uname` all
+make: Leaving directory '/home/oliveira/Downloads/ptypes/ptypes-2.1.1'
+ 
